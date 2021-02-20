@@ -10,6 +10,5 @@ cta:
   enabled: false
   url: ''
   button_text: Do this
-published: false
 
 ---
