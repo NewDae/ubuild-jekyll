@@ -1,6 +1,6 @@
 ---
 block: hero-2
-background_image: ''
+background_image: "/uploads/2018/06/21/forestry-full.svg"
 image:
   image: ''
   alt_text: ''
